@@ -7,6 +7,7 @@ BS Computer Science student, University of the Philippines Diliman.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
+## Invite my Discord bot!
+http://bit.ly/renz-bot<br>
 
 ![Visitor Count](https://profile-counter.glitch.me/renzjared/count.svg)
